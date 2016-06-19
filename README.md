@@ -1,4 +1,4 @@
-# stepic_python_in_action
+# stepic_python_in_action_ru
 
 Code for [Stepic][1] course [Python in Action (ru)][2]
 
